@@ -1,0 +1,1206 @@
+<?xml version="1.0" standalone="yes"?>
+
+
+<!-- Generated in R -->
+
+
+<beast version="1.10.5">
+
+
+	<taxa id="taxa">
+		<taxon id="SAL_AB2731AA_AS_2018">
+			<date value="2018" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_BB6066AA_AS_2018">
+			<date value="2018" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_FB7322AA_AS_2018">
+			<date value="2018" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_FB8991AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA0828AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3162AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3163AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3235AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3503AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3530AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3531AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3532AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3534AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3535AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3537AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_LA3538AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_MA0362AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_MA1115AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_NA6126AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_OA0287AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_OA1940AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_QA5930AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_QA6758AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_QA7660AA_AS_2016">
+			<date value="2016" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_RA0136AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_RA0343AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA0010AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA0749AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA0782AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA1131AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA1500AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA8900AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA9487AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA9724AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA9739AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_SA9863AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0102AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0116AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0155AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0674AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0675AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0690AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0700AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0943AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0957AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0976AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA0987AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1160AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1169AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1204AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1209AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1210AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1318AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA1328AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA2138AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA2227AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA2551AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA2976AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4054AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4278AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4312AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4520AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4588AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA4908AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5047AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5048AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5049AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5050AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5052AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5150AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5442AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5553AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5597AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA5722AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA6089AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA6986AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA7647AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA7965AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA7973AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA8028AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA8430AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_TA9213AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA0818AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA1718AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2127AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2175AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2187AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2194AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2313AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2322AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA2938AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA3807AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA4549AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA5127AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA5271AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA5866AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA5889AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA6069AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA6828AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA6912AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA6915AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_UA7399AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA0486AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA0498AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA0507AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA4055AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA5732AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA5739AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA5824AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA6135AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_VA6393AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_WA1350AA_AS_2015">
+			<date value="2015" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_WA2759AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_WA5115AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_XA2094AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_YA3866AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_YA7205AA_AS_2018">
+			<date value="2018" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_ZA2993AA_AS_2018">
+			<date value="2018" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+		<taxon id="SAL_ZA3343AA_AS_2017">
+			<date value="2017" direction="forwards" units="years" uncertainty="1.0"/>
+		</taxon>
+	</taxa>
+	<alignment id="alignment" dataType="nucleotide">
+		<sequence>
+			<taxon idref="SAL_AB2731AA_AS_2018"/>
+			CGTGCCCTGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGCACCCGTAAGTTGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_BB6066AA_AS_2018"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCA-AGCGGTCTCCGGAGAATGCTA
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_FB7322AA_AS_2018"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGC-ATCTGCTGAGGATGCGTGCCTGTATCCGTGAGTGGATCGGGCCCGCCA-AGAGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_FB8991AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGTGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCA-AGCGGTCTCCGAAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA0828AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3162AA_AS_2015"/>
+			CGCGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3163AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3235AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCAGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3503AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3530AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGATCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGTCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3531AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3532AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3534AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCGGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAACGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3535AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3537AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_LA3538AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGG-TCCGACCATGCCCGGCT-CCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_MA0362AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_MA1115AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_NA6126AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGCGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_OA0287AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_OA1940AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_QA5930AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_QA6758AA_AS_2016"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATTCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_QA7660AA_AS_2016"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_RA0136AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_RA0343AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA0010AA_AS_2017"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA0749AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA0782AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA1131AA_AS_2017"/>
+			CGTGTCCGGCGTGGGCCTCCGCGGATCCGACCACGCTCGGCTATCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCCGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA1500AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA8900AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGGCCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA9487AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA9724AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCAGCGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA9739AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_SA9863AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0102AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTGCCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCA-AGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0116AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0155AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0674AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGTTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0675AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCAGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGAGCCTGCCAGAGCGGTCTCCGGAGAATGTCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0690AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGGCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0700AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAATGGATCGGGCCTGCCAAAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0943AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGAATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0957AA_AS_2017"/>
+			CGTGCCCGGCGTGG-----CGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0976AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATAGGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA0987AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCTGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1160AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCATGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1169AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGGTGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGACTGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1204AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1209AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1210AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1318AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1328AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA2138AA_AS_2017"/>
+			CGTGCCCGACGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCA-AGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA2227AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGACCCGACCATGCCCG-CTACCTACTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA2551AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA2976AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4054AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCTGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4278AA_AS_2017"/>
+			CGTGCCCGGCGTGG-----CGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4312AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4520AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCCGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4588AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA4908AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5047AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5048AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGCTCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCTTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5049AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCTGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5050AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACTTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAAAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5052AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5150AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5442AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCTTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5553AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCT-CCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5597AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA5722AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA6089AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGACTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA6986AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATTCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA7647AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCTAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA7965AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACACCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA7973AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA8028AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA8430AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA9213AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA0818AA_AS_2017"/>
+			TGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA1718AA_AS_2015"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2127AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCAGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2175AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCGACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2187AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGG-TCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2194AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2313AA_AS_2017"/>
+			CGTGCCCGGCGTGG-----CGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2322AA_AS_2017"/>
+			CGTGCCCGGCGTGG-----CGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA2938AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGGCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA3807AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGACTACCTGCTGAGGATGCGTACCTGTATCCATAAGTGGATCGGGTCTGCCAGAGCGGTCCCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA4549AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA5127AA_AS_2017"/>
+			CATGCCCGGCGTGGGCCTCCGCGGATCCGACTACGCCCGGCTACCCGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCAGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA5271AA_AS_2017"/>
+			CGTGCCAGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA5866AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGTCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA5889AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA6069AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA6828AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA6912AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGATCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA6915AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCTGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTGTATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_UA7399AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCAGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA0486AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCT-CCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCTGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA0498AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA0507AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA4055AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA5732AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA5739AA_AS_2017"/>
+			CGTACCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTACCTATATCCGTAAGTGGATCGGGTCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA5824AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA6135AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCAGTAAGCGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_VA6393AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCAGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGTCGCGGGCCTGCCAGAGCGGTCTCCGGAGGATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_WA1350AA_AS_2015"/>
+			CGTGCACGGCGTGGGCCTCAGCGGATCCAACCACGCCAGGCTACCTGCTGAAGAAGCGTGCCTGTATCCGCAAGTG---CGGGCCTACCAGAACGGCATCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_WA2759AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_WA5115AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_XA2094AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGATGAGGATGCGTGCCCGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_YA3866AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTTAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_YA7205AA_AS_2018"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCATGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_ZA2993AA_AS_2018"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCAGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCAGAGCGGTCTCCGGAGAATGCCG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_ZA3343AA_AS_2017"/>
+			CGTGCCCGGCGTGGGCCTCCGCGGATCCGACCACGCCCGGCTACCTGCTGAGGATGCGTGCCTGTATCCGTAAGTGGATCGGGCCTGCCA-AGCGGTCTCCGGAGAATGCCG
+		</sequence>
+	</alignment>
+	<!-- The unique patterns from 1 to end -->
+	<!-- npatterns=XXX -->
+	<mergePatterns id="patterns">
+		<patterns from="1" every="1">
+			<alignment idref="alignment"/>
+		</patterns>
+		<constantPatterns>
+			<alignment idref="alignment"/>
+			<counts>
+				<parameter value=" 1092398 1199943 1194996 1091971 "/>
+			</counts>
+		</constantPatterns>
+	</mergePatterns>
+
+	
+
+	<!-- A prior assumption that the population size has grown exponentially     -->
+	<!-- throughout the time spanned by the genealogy.                           -->
+	<exponentialGrowth id="exponential" units="years">
+		<populationSize>
+			<parameter id="exponential.popSize" value="1.0" lower="0.0"/>
+		</populationSize>
+		<growthRate>
+			<parameter id="exponential.growthRate" value="0.0"/>
+		</growthRate>
+	</exponentialGrowth>
+	
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa"/>
+		<exponentialGrowth idref="exponential"/>
+	</coalescentSimulator>
+	
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel"/>
+	</treeLengthStatistic>
+
+	<!-- Statistic for time of most recent common ancestor of tree               -->
+	<tmrcaStatistic id="age(root)" absolute="true">
+		<treeModel idref="treeModel"/>
+	</tmrcaStatistic>
+	
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<exponentialGrowth idref="exponential"/>
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+	
+
+	<!-- The uncorrelated relaxed clock (Drummond, Ho, Phillips & Rambaut (2006) PLoS Biology 4, e88 )-->
+	<discretizedBranchRates id="branchRates">
+		<treeModel idref="treeModel"/>
+		<distribution>
+			<logNormalDistributionModel meanInRealSpace="true">
+				<mean>
+					<parameter id="ucld.mean" value="1.0" lower="0.0"/>
+				</mean>
+				<stdev>
+					<parameter id="ucld.stdev" value="0.3333333333333333" lower="0.0"/>
+				</stdev>
+			</logNormalDistributionModel>
+		</distribution>
+		<rateCategories>
+			<parameter id="branchRates.categories"/>
+		</rateCategories>
+	</discretizedBranchRates>
+	
+	<rateStatistic id="meanRate" name="meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateStatistic>
+	
+	<rateStatistic id="coefficientOfVariation" name="coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateStatistic>
+	
+	<rateCovarianceStatistic id="covariance" name="covariance">
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</rateCovarianceStatistic>
+	
+
+	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
+	<HKYModel id="hky">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<alignment idref="alignment"/>
+				<frequencies>
+					<parameter id="frequencies" dimension="4"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<kappa>
+			<parameter id="kappa" value="2.0" lower="0.0"/>
+		</kappa>
+	</HKYModel>
+
+	<!-- site model                                                              -->
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<HKYModel idref="hky"/>
+		</substitutionModel>
+		<gammaShape gammaCategories="4">
+			<parameter id="alpha" value="0.5" lower="0.0"/>
+		</gammaShape>
+	</siteModel>
+
+	<!--                                                                         -->
+	<statistic id="mu" name="mu">
+		<siteModel idref="siteModel"/>
+	</statistic>
+	
+
+	<!-- Likelihood for tree given sequence data                                 -->
+	<treeDataLikelihood id="treeLikelihood" useAmbiguities="false">
+		<partition>
+			<patterns idref="patterns"/>
+			<siteModel idref="siteModel"/>
+		</partition>
+		<treeModel idref="treeModel"/>
+		<discretizedBranchRates idref="branchRates"/>
+	</treeDataLikelihood>
+	
+
+	<!-- Define operators                                                        -->
+	<operators id="operators" optimizationSchedule="power">
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="kappa"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="alpha"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.mean"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.stdev"/>
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+				<parameter idref="treeModel.allInternalNodeHeights"/>
+			</up>
+			<down>
+				<parameter idref="ucld.mean"/>
+			</down>
+		</upDownOperator>
+		<swapOperator size="1" weight="10" autoOptimize="false">
+			<parameter idref="branchRates.categories"/>
+		</swapOperator>
+		<uniformIntegerOperator weight="10">
+			<parameter idref="branchRates.categories"/>
+		</uniformIntegerOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="exponential.popSize"/>
+		</scaleOperator>
+		<randomWalkOperator windowSize="1.0" weight="3">
+			<parameter idref="exponential.growthRate"/>
+		</randomWalkOperator>
+	</operators>
+	
+
+	<!-- Define MCMC                                                             -->
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
+					<parameter idref="kappa"/>
+				</logNormalPrior>
+				<exponentialPrior mean="0.5" offset="0.0">
+					<parameter idref="alpha"/>
+				</exponentialPrior>
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="ucld.mean"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<exponentialPrior mean="0.3333333333333333" offset="0.0">
+					<parameter idref="ucld.stdev"/>
+				</exponentialPrior>
+				<logNormalPrior mu="2.0" sigma="10.0" offset="0.0">
+					<parameter idref="exponential.popSize"/>
+				</logNormalPrior>
+				<laplacePrior mean="0.0" scale="100.0">
+					<parameter idref="exponential.growthRate"/>
+				</laplacePrior>
+				<coalescentLikelihood idref="coalescent"/>
+				
+				
+				<discretizedBranchRates idref="branchRates"/>
+			</prior>
+			<likelihood id="likelihood">
+				<treeDataLikelihood idref="treeLikelihood"/>
+			</likelihood>
+		</joint>
+		<operators idref="operators"/>
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="10000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="age(root)"/>
+			</column>
+			<column label="ucld.mean" sf="6" width="12">
+				<parameter idref="ucld.mean"/>
+			</column>
+		</log>
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="10000" fileName="45421_ucld_r1.log" overwrite="false">
+			<joint idref="joint"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="treeModel.rootHeight"/>
+			<tmrcaStatistic idref="age(root)"/>
+			<treeLengthStatistic idref="treeLength"/>
+			<parameter idref="exponential.popSize"/>
+			<parameter idref="exponential.growthRate"/>
+			<parameter idref="kappa"/>
+			<parameter idref="alpha"/>
+			<parameter idref="ucld.mean"/>
+			<parameter idref="ucld.stdev"/>
+			<rateStatistic idref="meanRate"/>
+			<rateStatistic idref="coefficientOfVariation"/>
+			<rateCovarianceStatistic idref="covariance"/>
+
+			<!-- START Marginal Likelihood Estimator                                     -->
+			<coalescentEventsStatistic>
+				<coalescentLikelihood idref="coalescent"/>
+				
+			</coalescentEventsStatistic>
+
+			<!-- END Marginal Likelihood Estimator                                       -->
+
+			<treeDataLikelihood idref="treeLikelihood"/>
+			<discretizedBranchRates idref="branchRates"/>
+			<coalescentLikelihood idref="coalescent"/>
+			
+		</log>
+
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="45421_ucld_r1.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="rate">
+				<discretizedBranchRates idref="branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+		</logTree>
+	</mcmc>
+	
+
+	<!-- START Marginal Likelihood Estimator                                     -->
+	<productOfExponentialsPosteriorMeansLoess id="exponentials" fileName="45421_ucld_r1.log" burnin="10000000" parameterColumn="coalescentEventsStatistic" dimension="118">
+		<treeModel idref="treeModel"/>
+	</productOfExponentialsPosteriorMeansLoess>
+
+	<!-- Define marginal likelihood estimator (GSS) settings                     -->
+	<marginalLikelihoodEstimator chainLength="1000000" pathSteps="50" pathScheme="betaquantile" alpha="0.3">
+		<samplers>
+			<mcmc idref="mcmc"/>
+		</samplers>
+		<pathLikelihood id="pathLikelihood">
+			<source>
+				<joint idref="joint"/>
+			</source>
+			<destination>
+				<workingPrior>
+					<logTransformedNormalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="kappa" burnin="10000000">
+						<parameter idref="kappa"/>
+					</logTransformedNormalReferencePrior>
+					<logTransformedNormalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="alpha" burnin="10000000">
+						<parameter idref="alpha"/>
+					</logTransformedNormalReferencePrior>
+					<discretizedBranchRates idref="branchRates"/>
+					<logTransformedNormalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="ucld.mean" burnin="10000000">
+						<parameter idref="ucld.mean"/>
+					</logTransformedNormalReferencePrior>
+					<logTransformedNormalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="ucld.stdev" burnin="10000000">
+						<parameter idref="ucld.stdev"/>
+					</logTransformedNormalReferencePrior>
+					<logTransformedNormalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="exponential.popSize" burnin="10000000">
+						<parameter idref="exponential.popSize"/>
+					</logTransformedNormalReferencePrior>
+					<normalReferencePrior fileName="45421_ucld_r1.log" parameterColumn="exponential.growthRate" burnin="10000000">
+						<parameter idref="exponential.growthRate"/>
+					</normalReferencePrior>
+					<productOfExponentialsPosteriorMeansLoess idref="exponentials"/>
+				</workingPrior>
+			</destination>
+		</pathLikelihood>
+		<log id="MLELog" logEvery="1000" fileName="45421_ucld_r1.mle.log">
+			<pathLikelihood idref="pathLikelihood"/>
+		</log>
+	</marginalLikelihoodEstimator>
+
+	<!-- Generalized stepping-stone sampling estimator from collected samples    -->
+	<generalizedSteppingStoneSamplingAnalysis fileName="45421_ucld_r1.mle.log" resultsFileName="45421_ucld_r1.mle.result.log">
+		<sourceColumn name="pathLikelihood.source"/>
+		<destinationColumn name="pathLikelihood.destination"/>
+		<thetaColumn name="pathLikelihood.theta"/>
+	</generalizedSteppingStoneSamplingAnalysis>
+
+	<!-- END Marginal Likelihood Estimator                                       -->
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+	
+</beast>

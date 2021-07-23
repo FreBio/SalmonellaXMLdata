@@ -1,0 +1,527 @@
+<?xml version="1.0" standalone="yes"?>
+
+
+<!-- Generated in R -->
+
+
+<beast version="1.10.5">
+
+
+	<taxa id="taxa">
+		<taxon id="SAL_KB8579AA_AS_2006"/>
+		<taxon id="SAL_KB8417AA_AS_2006"/>
+		<taxon id="SAL_WB7389AA_AS_2006"/>
+		<taxon id="SAL_DB4363AA_AS_2007"/>
+		<taxon id="SAL_KB8608AA_AS_2007"/>
+		<taxon id="SAL_KB8342AA_AS_2008"/>
+		<taxon id="SAL_DB3719AA_AS_2009"/>
+		<taxon id="SAL_DB3721AA_AS_2009"/>
+		<taxon id="SAL_DB3722AA_AS_2009"/>
+		<taxon id="SAL_DB3723AA_AS_2009"/>
+		<taxon id="SAL_DB3724AA_AS_2009"/>
+		<taxon id="SAL_KB9263AA_AS_2009"/>
+		<taxon id="SAL_NB7983AA_AS_2009"/>
+		<taxon id="SAL_JA4245AA_AS_2012"/>
+		<taxon id="SAL_FA1288AA_AS_2012"/>
+		<taxon id="SAL_FA1087AA_AS_2013"/>
+		<taxon id="SAL_EA6728AA_AS_2014"/>
+		<taxon id="SAL_EA7040AA_AS_2014"/>
+		<taxon id="SAL_CB9596AA_AS_2014"/>
+		<taxon id="SAL_EA6101AA_AS_2015"/>
+		<taxon id="SAL_XA6499AA_AS_2015"/>
+		<taxon id="SAL_FB9746AA_AS_2015"/>
+		<taxon id="SAL_CB7223AA_AS_2015"/>
+		<taxon id="SAL_CB7169AA_AS_2015"/>
+		<taxon id="SAL_CB9189AA_AS_2015"/>
+		<taxon id="SAL_DB0055AA_AS_2015"/>
+		<taxon id="SAL_EB6737AA_AS_2015"/>
+		<taxon id="SAL_EB6728AA_AS_2015"/>
+		<taxon id="SAL_KB6188AA_AS_2015"/>
+		<taxon id="SAL_KB6184AA_AS_2015"/>
+		<taxon id="SAL_CB7131AA_AS_2016"/>
+		<taxon id="SAL_KB0614AA_AS_2016"/>
+		<taxon id="SAL_TA1582AA_AS_2017"/>
+		<taxon id="SAL_CB8485AA_AS_2017"/>
+		<taxon id="SAL_AC6531AA_AS_2017"/>
+		<taxon id="SAL_EB3335AA_AS_2018"/>
+		<taxon id="SAL_IB7435AA_AS_2018"/>
+		<taxon id="SAL_JB1752AA_AS_2019"/>
+		<taxon id="SAL_JB4438AA_AS_2019"/>
+		<taxon id="SAL_KB1501AA_AS_2019"/>
+		<taxon id="SAL_KB1833AA_AS_2019"/>
+		<taxon id="SAL_KB2269AA_AS_2019"/>
+		<taxon id="SAL_KB4663AA_AS_2019"/>
+		<taxon id="SAL_NC9142AA_AS_2021"/>
+	</taxa>
+	<alignment id="alignment" dataType="nucleotide">
+		<sequence>
+			<taxon idref="SAL_KB8579AA_AS_2006"/>
+			CGGCTTCCTGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB8417AA_AS_2006"/>
+			CGGCTTCCTGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_WB7389AA_AS_2006"/>
+			CGGCGTCCAGTATGGGTTTACGTCCTCAGGGTGGCAGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB4363AA_AS_2007"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB8608AA_AS_2007"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB8342AA_AS_2008"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB3719AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACATCCTCAGGGTGGCGGTACCGTCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB3721AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACATCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB3722AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACATCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB3723AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACATCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB3724AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACATCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB9263AA_AS_2009"/>
+			CGGCTTCCAGTATGGGTTTACGTCCACAGGGTGGCGGTGCCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_NB7983AA_AS_2009"/>
+			CGACTTCCAGTATGGGTTTACGTCCTCAGGGTGGAGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_JA4245AA_AS_2012"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCACAAAAC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_FA1288AA_AS_2012"/>
+			CGGCTTCCAGTACGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_FA1087AA_AS_2013"/>
+			CGGCTTCCACTATGGGTTTCCGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EA6728AA_AS_2014"/>
+			CGGCTTCCAGTA-GGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EA7040AA_AS_2014"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB9596AA_AS_2014"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EA6101AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_XA6499AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_FB9746AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACG--CTCAGGGT-GCGGTACCGCCCAAAG-
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB7223AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB7169AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCTCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB9189AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCTCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_DB0055AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCTCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EB6737AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGATCTCAGGGTTGCGGTACCGCCCAAAGG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EB6728AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCTCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB6188AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB6184AA_AS_2015"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCTCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB7131AA_AS_2016"/>
+			CGGCTTCCAGTATAGGTTTAGGATCTCAGGGTTGCGGTACCGCCCAAAGG
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB0614AA_AS_2016"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCTAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_TA1582AA_AS_2017"/>
+			CGGCTTCCAGTATGGGTAAACGTCCTCAGGGTGGCGTTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_CB8485AA_AS_2017"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACTGCCCATAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_AC6531AA_AS_2017"/>
+			CGGCTTCCAGTA-GGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_EB3335AA_AS_2018"/>
+			CGGCTTCTAGAATGGGTTTACGTCCTC-GGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_IB7435AA_AS_2018"/>
+			CGGCTTCTAGAATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_JB1752AA_AS_2019"/>
+			CGGTTTCCAGTGTGGGTTTACGTCATCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_JB4438AA_AS_2019"/>
+			CGGCTTCCAGTATGGGCTTACGTCCTCAGGGTGGCGGTACCGCCCAATGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB1501AA_AS_2019"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB1833AA_AS_2019"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCGAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB2269AA_AS_2019"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCGAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_KB4663AA_AS_2019"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+		<sequence>
+			<taxon idref="SAL_NC9142AA_AS_2021"/>
+			CGGCTTCCAGTATGGGTTTACGTCCTCAGGGTGGCGGTACCGCCCAAAGC
+		</sequence>
+	</alignment>
+	<!-- The unique patterns from 1 to end -->
+	<!-- npatterns=XXX -->
+	<mergePatterns id="patterns">
+		<patterns from="1" every="1">
+			<alignment idref="alignment"/>
+		</patterns>
+		<constantPatterns>
+			<alignment idref="alignment"/>
+			<counts>
+				<parameter value=" 1083936 1181606 1181097 1081296 "/>
+			</counts>
+		</constantPatterns>
+	</mergePatterns>
+
+
+	<!-- A prior assumption that the population size has grown exponentially     -->
+	<!-- throughout the time spanned by the genealogy.                           -->
+	<exponentialGrowth id="exponential" units="years">
+		<populationSize>
+			<parameter id="exponential.popSize" value="1.0" lower="0.0"/>
+		</populationSize>
+		<growthRate>
+			<parameter id="exponential.growthRate" value="0.0"/>
+		</growthRate>
+	</exponentialGrowth>
+	
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa"/>
+		<exponentialGrowth idref="exponential"/>
+	</coalescentSimulator>
+	
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Statistic for sum of the branch lengths of the tree (tree length)       -->
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel"/>
+	</treeLengthStatistic>
+	
+
+	<!-- Generate a coalescent likelihood                                        -->
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<exponentialGrowth idref="exponential"/>
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+	
+
+	<!-- The strict clock (Uniform rates across branches)                        -->
+	<strictClockBranchRates id="branchRates">
+		<rate>
+			<parameter id="clock.rate" value="3.36E-7"/>
+		</rate>
+	</strictClockBranchRates>
+	
+	<rateStatistic id="meanRate" name="meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="branchRates"/>
+	</rateStatistic>
+	
+
+	<!-- The HKY substitution model (Hasegawa, Kishino & Yano, 1985)             -->
+	<HKYModel id="hky">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<alignment idref="alignment"/>
+				<alignment idref="alignment"/>
+				<frequencies>
+					<parameter id="frequencies" dimension="4"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<kappa>
+			<parameter id="kappa" value="2.0" lower="0.0"/>
+		</kappa>
+	</HKYModel>
+
+	<!-- site model                                                              -->
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<HKYModel idref="hky"/>
+		</substitutionModel>
+		<gammaShape gammaCategories="4">
+			<parameter id="alpha" value="0.5" lower="0.0"/>
+		</gammaShape>
+	</siteModel>
+
+	<!--                                                                         -->
+	<statistic id="mu" name="mu">
+		<siteModel idref="siteModel"/>
+	</statistic>
+	
+
+	<!-- Likelihood for tree given sequence data                                 -->
+	<treeDataLikelihood id="treeLikelihood" useAmbiguities="false">
+		<partition>
+			<patterns idref="patterns"/>
+			<siteModel idref="siteModel"/>
+		</partition>
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="branchRates"/>
+	</treeDataLikelihood>
+	
+
+	<!-- Define operators                                                        -->
+	<operators id="operators" optimizationSchedule="power">
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="kappa"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="alpha"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" scaleAll="true" ignoreBounds="true" weight="3">
+			<parameter idref="treeModel.allInternalNodeHeights"/>
+		</scaleOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="exponential.popSize"/>
+		</scaleOperator>
+		<randomWalkOperator windowSize="1.0" weight="3">
+			<parameter idref="exponential.growthRate"/>
+		</randomWalkOperator>
+	</operators>
+	
+
+	<!-- Define MCMC                                                             -->
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
+					<parameter idref="kappa"/>
+				</logNormalPrior>
+				<exponentialPrior mean="0.5" offset="0.0">
+					<parameter idref="alpha"/>
+				</exponentialPrior>
+				<logNormalPrior mu="2.0" sigma="10.0" offset="0.0">
+					<parameter idref="exponential.popSize"/>
+				</logNormalPrior>
+				<laplacePrior mean="0.0" scale="100.0">
+					<parameter idref="exponential.growthRate"/>
+				</laplacePrior>
+				<coalescentLikelihood idref="coalescent"/>
+				
+				
+				<strictClockBranchRates idref="branchRates"/>
+			</prior>
+			<likelihood id="likelihood">
+				<treeDataLikelihood idref="treeLikelihood"/>
+			</likelihood>
+		</joint>
+		<operators idref="operators"/>
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="10000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="rootHeight" sf="6" width="12">
+				<parameter idref="treeModel.rootHeight"/>
+			</column>
+		</log>
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="10000" fileName="60214_contemp_r1.log" overwrite="false">
+			<joint idref="joint"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="treeModel.rootHeight"/>
+			<treeLengthStatistic idref="treeLength"/>
+			<parameter idref="exponential.popSize"/>
+			<parameter idref="exponential.growthRate"/>
+			<parameter idref="kappa"/>
+			<parameter idref="alpha"/>
+			<parameter idref="clock.rate"/>
+			<rateStatistic idref="meanRate"/>
+
+			<!-- START Marginal Likelihood Estimator                                     -->
+			<coalescentEventsStatistic>
+				<coalescentLikelihood idref="coalescent"/>
+				
+			</coalescentEventsStatistic>
+
+			<!-- END Marginal Likelihood Estimator                                       -->
+
+			<treeDataLikelihood idref="treeLikelihood"/>
+			<strictClockBranchRates idref="branchRates"/>
+			<coalescentLikelihood idref="coalescent"/>
+			
+		</log>
+
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="60214_contemp_r1.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="rate">
+				<strictClockBranchRates idref="branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+		</logTree>
+	</mcmc>
+	
+
+	<!-- START Marginal Likelihood Estimator                                     -->
+	<productOfExponentialsPosteriorMeansLoess id="exponentials" fileName="60214_contemp_r1.log" burnin="10000000" parameterColumn="coalescentEventsStatistic" dimension="43">
+		<treeModel idref="treeModel"/>
+	</productOfExponentialsPosteriorMeansLoess>
+
+	<!-- Define marginal likelihood estimator (GSS) settings                     -->
+	<marginalLikelihoodEstimator chainLength="1000000" pathSteps="50" pathScheme="betaquantile" alpha="0.3">
+		<samplers>
+			<mcmc idref="mcmc"/>
+		</samplers>
+		<pathLikelihood id="pathLikelihood">
+			<source>
+				<joint idref="joint"/>
+			</source>
+			<destination>
+				<workingPrior>
+					<logTransformedNormalReferencePrior fileName="60214_contemp_r1.log" parameterColumn="kappa" burnin="10000000">
+						<parameter idref="kappa"/>
+					</logTransformedNormalReferencePrior>
+					<logTransformedNormalReferencePrior fileName="60214_contemp_r1.log" parameterColumn="alpha" burnin="10000000">
+						<parameter idref="alpha"/>
+					</logTransformedNormalReferencePrior>
+					<logTransformedNormalReferencePrior fileName="60214_contemp_r1.log" parameterColumn="exponential.popSize" burnin="10000000">
+						<parameter idref="exponential.popSize"/>
+					</logTransformedNormalReferencePrior>
+					<normalReferencePrior fileName="60214_contemp_r1.log" parameterColumn="exponential.growthRate" burnin="10000000">
+						<parameter idref="exponential.growthRate"/>
+					</normalReferencePrior>
+					<productOfExponentialsPosteriorMeansLoess idref="exponentials"/>
+				</workingPrior>
+			</destination>
+		</pathLikelihood>
+		<log id="MLELog" logEvery="1000" fileName="60214_contemp_r1.mle.log">
+			<pathLikelihood idref="pathLikelihood"/>
+		</log>
+	</marginalLikelihoodEstimator>
+
+	<!-- Generalized stepping-stone sampling estimator from collected samples    -->
+	<generalizedSteppingStoneSamplingAnalysis fileName="60214_contemp_r1.mle.log" resultsFileName="60214_contemp_r1.mle.result.log">
+		<sourceColumn name="pathLikelihood.source"/>
+		<destinationColumn name="pathLikelihood.destination"/>
+		<thetaColumn name="pathLikelihood.theta"/>
+	</generalizedSteppingStoneSamplingAnalysis>
+
+	<!-- END Marginal Likelihood Estimator                                       -->
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+	
+</beast>
